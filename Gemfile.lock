@@ -20,7 +20,7 @@ GEM
       logging (~> 2.0)
     digest-sha3 (1.1.0)
     ethash (0.2.0)
-    ffi (1.9.10)
+    ffi (1.9.18)
     fiddler-rb (0.1.2)
     leveldb (0.1.9)
       fiddler-rb (~> 0.1.1)
@@ -47,4 +47,4 @@ DEPENDENCIES
   yard (= 0.8.7.6)
 
 BUNDLED WITH
-   1.11.2
+   1.14.6

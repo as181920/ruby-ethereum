@@ -2,3 +2,6 @@ tags
 .bundle
 .yardoc
 doc
+.byebug_history
+*.swp
+*~
